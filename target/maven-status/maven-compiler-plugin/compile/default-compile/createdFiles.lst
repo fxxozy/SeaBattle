@@ -1,0 +1,12 @@
+vsu\cs\ru\models\Player.class
+vsu\cs\ru\Main.class
+vsu\cs\ru\models\Field.class
+vsu\cs\ru\services\FieldService.class
+vsu\cs\ru\models\Direction.class
+vsu\cs\ru\services\GameService.class
+vsu\cs\ru\models\WaterObject.class
+vsu\cs\ru\models\Direction$1.class
+vsu\cs\ru\models\Mine.class
+vsu\cs\ru\models\Game.class
+vsu\cs\ru\models\Cell.class
+vsu\cs\ru\models\Ship.class
